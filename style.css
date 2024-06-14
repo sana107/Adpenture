@@ -115,7 +115,7 @@ padding-top: 5px;
 
     .jrny_container{
         width: 100%;height:160vh;
-        background-image: url(./images/_cleanup.png);
+        background-image: url(./images/cleanup.png);
         background-position: center;
         background-size: cover;
         font-family: sans-serif;
