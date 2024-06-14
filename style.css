@@ -5,9 +5,9 @@
    
 }
 .jrny_container{
-    width: 100%;height:100vh;
-    background-image: url('./images/cleanup.png');
-    /* background-color: red; */
+    width: 100%;
+    height:100vh;
+    background-image: url('./images/cleanup.png'); 
     background-position: center;
     background-size: cover;
     font-family: sans-serif;
