@@ -11,7 +11,7 @@
     background-position: center;
     background-size: cover;
     font-family: sans-serif;
-    background-size: 80%;
+    /* background-size: 80%; */
     background-repeat: no-repeat;
     display: flex;align-items: center;flex-direction: column;
     
